@@ -7,6 +7,17 @@
 </p>
 
 > Projeto voltado a criaçao de um site para  Lares de Acolhimento de forma mapeada
+## Preview
+
+ ![Imgur](https://imgur.com/CvQOCWA.png)
+ ![Imgur](https://imgur.com/DBNWpdj.png)
+ ![Imgur](https://imgur.com/DoNGFAp.png)
+ ![Imgur](https://imgur.com/Zs3rV04.png)
+ ![Imgur](https://imgur.com/Zs3rV04.png)
+
+Give a ⭐️ if this project helped you!
+
+
 
 ## Tecnologias
 
@@ -21,6 +32,7 @@
 
 * Github: [@brenomaini](https://github.com/brenomaini)
 * LinkedIn: [@brenomaini](https://linkedin.com/in/brenomaini)
+
 
 ## Show your support
 
