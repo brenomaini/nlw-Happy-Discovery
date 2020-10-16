@@ -14,7 +14,7 @@
  - CSS
  - JavaScript
  - HandleBars
- -Sqlite
+ - Sqlite
 ## Author
 
 👤 **Breno Maini**
