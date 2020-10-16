@@ -13,11 +13,6 @@
  ![Imgur](https://imgur.com/DBNWpdj.png)
  ![Imgur](https://imgur.com/DoNGFAp.png)
  ![Imgur](https://imgur.com/Zs3rV04.png)
- ![Imgur](https://imgur.com/Zs3rV04.png)
-
-Give a ⭐️ if this project helped you!
-
-
 
 ## Tecnologias
 
