@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Projeto voltado a criaçao de um site para  Lares de Acolhimento de forma mapeada
+## Projeto voltado a criaçao de um site para  Lares de Acolhimento de forma mapeada
 ## Preview
 
  ![Imgur](https://imgur.com/CvQOCWA.png)
@@ -31,7 +31,7 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Dẽ uma ⭐️ se você gostou!
 
 ## 📝 License
 
